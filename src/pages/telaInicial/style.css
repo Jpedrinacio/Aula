@@ -1,0 +1,66 @@
+.logo {
+  width: 200px;
+  height: auto;
+  margin: 10px;
+}
+
+.buscar{
+    width: 700px;
+    height: 30px;
+    margin-top: 15px;
+    border-radius: 15px;
+    margin-left: 100px;
+}
+
+.user{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin-top: 15px;
+    margin-left: 60px;
+}
+
+body {
+  font-family: Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+  margin: 0;
+  background: var(--bg);
+  color: #e6eef6;
+}
+
+.topo{
+    display: flex;
+    background-color: aquamarine;
+}
+.links{
+    background-color: blanchedalmond;
+}
+
+.links-nav{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-decoration: none;
+    margin-left: 350px;
+    margin-top: 10px;
+    
+}
+a{
+    margin: 50px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+nav a:hover {
+      color: #0838e5;
+      text-decoration: underline; 
+    }
+
+.prod{
+    display: flex;
+    margin-left: 90px;
+    
+}
+
+.prods{
+    width: 300px;
+    height: 300px;
+    margin: 30px;
+}
