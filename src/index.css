@@ -1,0 +1,27 @@
+.menu-navegacao {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1e90ff;
+  color: white;
+  padding: 15px 40px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.titulo-site {
+  font-size: 22px;
+  font-weight: 600;
+  margin: 0;
+}
+
+.menu-navegacao nav a {
+  color: white;
+  text-decoration: none;
+  margin-left: 30px;
+  font-size: 18px;
+  transition: color 0.3s ease;
+}
+
+.menu-navegacao nav a:hover {
+  color: #ffd700;
+}
